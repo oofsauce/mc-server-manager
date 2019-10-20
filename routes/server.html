@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MCS Manager</title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+    <link rel="stylesheet" href="/stylesheets/server.css">
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/javascript/util.js"></script>
+    <script src="/javascript/server.js" defer></script>
+</head>
+<body>
+    <header>
+    asd
+    </header>
+    <section class="log">
+        <ul id="serverLog">
+        </ul>
+        <input id="cmd-input" placeholder="command input"/>
+    </section>
+
+    <section class="right">
+        <section class="status">
+            <h1 id="server-name">mc 21-02-19</h1>
+            <h6>
+                <span id="server-status" class="online"></span> - 
+                <span id="player-count">0/10</span> players 
+                - uptime: <span id="uptime">0 seconds</span>
+            </h6>
+        </section>
+        <section class="player-control">
+            <ul>
+                <li><button id="kick">Kick</button></li>
+                <li><button id="ban"> Ban</button></li>
+                <li><button id="op">  Op</button></li>
+                <li><button id="deop">Deop</button></li>
+            </ul>
+            <select id="players" size="10">
+                <option value="oofsauce">oofsauce</option>
+                <option value="JesusIsTheBread">JesusIsTheBread</option>
+                <option value="DanUwU">DanUwU</option>
+                <option value="Guirkyshark">Guirkyshark</option>
+                <option value="Jesmond">Jesmond</option>
+                <option value="DMC360">DMC360</option>
+                <option value="Neo">Neo</option>
+                <option value="Jedward">Jedward</option>
+            </select>
+            
+        </section>
+    </section>
+    <footer>
+        TODO: 
+        <ul>
+            <li>templating engine</li>
+            <li>make this multi-server</li>
+            <li>you know.. actually do the rcon</li>
+        </ul>
+    </footer>
+</body>
+</html>

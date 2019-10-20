@@ -1,0 +1,24 @@
+{
+  "name": "mc-server-manager",
+  "version": "1.0.0",
+  "description": "Server Manager for MC with auto restart, hibernation, etc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "manager",
+    "server",
+    "express",
+    "socket",
+    "web"
+  ],
+  "author": "Alan Panayotov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}

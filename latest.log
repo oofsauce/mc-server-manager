@@ -1,0 +1,238 @@
+[22:16:12] [Server thread/ERROR]: Starting minecraft server version 1.14.4
+[22:16:12] [Server thread/INFO]: Loading properties
+[22:16:13] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-94af569-a3fdef8 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+[22:16:13] [Server thread/INFO]: Debug logging is disabled
+[22:16:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:16:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:16:13] [Server thread/INFO]: Default game type: SURVIVAL
+[22:16:13] [Server thread/INFO]: Generating keypair
+[22:16:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:16:13] [Server thread/INFO]: Using default channel type
+[22:16:18] [Server thread/WARN]: Plugin ProtocolLib v4.4.0 does not specify an api-version.
+[22:16:18] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.17.1
+[22:16:18] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.4.0
+[22:16:18] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.14.4) has not yet been tested! Proceed with caution.
+[22:16:19] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.6.0-SNAPSHOT-b2314
+[22:16:19] [Server thread/INFO]: [SuperVanish] Loading SuperVanish v6.1.3
+[22:16:19] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.4.0
+[22:16:19] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[22:16:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:16:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:16:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:16:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:16:19] [Server thread/INFO]: Preparing level "world"
+[22:16:19] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:16:19] [Server thread/INFO]: Loaded 6 recipes
+[22:16:20] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:16:20] [Server thread/INFO]: View Distance: 10
+[22:16:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:16:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:16:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:16:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:16:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:16:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:16:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:16:20] [Server thread/INFO]: Mob Spawn Range: 6
+[22:16:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:16:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:16:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:16:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:16:20] [Server thread/INFO]: Max TNT Explosions: 100
+[22:16:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:16:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:16:20] [Server thread/INFO]: View Distance: 10
+[22:16:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:16:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:16:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:16:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:16:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:16:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:16:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:16:20] [Server thread/INFO]: Mob Spawn Range: 6
+[22:16:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:16:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:16:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:16:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:16:20] [Server thread/INFO]: Max TNT Explosions: 100
+[22:16:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:16:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:16:20] [Server thread/INFO]: View Distance: 10
+[22:16:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[22:16:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:16:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[22:16:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:16:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:16:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:16:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:16:20] [Server thread/INFO]: Mob Spawn Range: 6
+[22:16:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:16:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:16:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:16:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:16:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:16:20] [Server thread/INFO]: Max TNT Explosions: 100
+[22:16:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:16:20] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[22:16:22] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:22] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:22] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:22] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:22] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:23] [Server thread/INFO]: Time elapsed: 2569 ms
+[22:16:23] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[22:16:24] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:24] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:24] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:24] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:24] [Server thread/INFO]: Time elapsed: 1725 ms
+[22:16:24] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[22:16:25] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:25] [Server thread/INFO]: Preparing spawn area: 0%
+[22:16:25] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[22:16:26] [Server thread/INFO]: Time elapsed: 1251 ms
+[22:16:26] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.17.1
+[22:16:26] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.6.0-SNAPSHOT-b2314
+[22:16:26] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[22:16:26] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[22:16:26] [Server thread/INFO]: [AuthMe] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[22:16:27] [Server thread/INFO]: [AuthMe] AuthMe 5.6.0-SNAPSHOT build n.2314 successfully enabled!
+[22:16:27] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.1.3
+[22:16:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:16:27] [Server thread/INFO]: Done (7.706s)! For help, type "help"
+[22:16:27] [Server thread/INFO]: Starting remote control listener
+[22:16:27] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[22:16:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (35bc27bf421604a08ea637646123433ee9794e69)
+[22:16:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Language initialized as English
+[22:16:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] �8===============================================================================
+[22:16:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] �a         Need a server host? Try PebbleHost! Plans starting at $1/GB!
+[22:16:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] �a Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
+[22:16:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] �8===============================================================================
+[22:16:29] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[22:16:30] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[22:16:30] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:actually gay(461317469592616990)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(461317469592616993)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:bot-spam(461515259400683529)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:plans-for-stuff-to-add(461526474483040266)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:002-best-girl-2018(464566154677977100)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:lolis-in-general(464566238841012225)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nsfw(461518745014370307)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:osu(464867027614564353)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:Gamers United(362314747917500417)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:teleporter-guide(588116290808315904)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(453254877871603713)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:csgo(362314747917500419)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:musical-boys(472147208914075653)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ip(599263541253373953)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(453254920112570388)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:music(453254941574823948)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(422478402352709642)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ip(599263575382687786)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:spam(424648882740264960)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:music(362317315804626944)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:no-mic-zone(393605023323389952)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:kimis-amazing-music-taste(428195993683492874)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:kimis-not-so-amazing-f1-and-other-stuff-spam(446631614567677962)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:big-funnies(448115918715879426)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:epic-pictures(464797057450770432)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:kpop-krib(504458227711475712)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:shh(364507323189690368)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nsfw-tech(364506816530350081)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:BWB(422185279999180821)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:general(422185279999180823)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:music(422186501481168898)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:theme-suggestions(577198979431792661)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:jackbox(541034936979947540)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:how-to-ctira(495570280136179712)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:minecraft(634447466716069908)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:dio(568188447769100438)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nsfw(422186354592448523)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:homework-notes-and-jazz(521428299017224269)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:creative-corner(605750599035912202)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:band-again(523563160658247690)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:meme(568188650794385408)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:whisper(422459703788830741)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:bots-testing(455873391229141002)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:data-links(549333415183515648)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:endgame-spoilers(572808703758172171)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:rslashcringe(573917501964943370)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:1st-gamer-games(603972596081492004)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:t-ko-archive(597524840689434635)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:data-files(549333441724940308)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:man-ass(615278855971667977)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:fuckin-chemistry-nerds(620315124619804724)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:photos-from-munich-for-cael(620320483266789376)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:movies(495572322942451712)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:osu(458315375600467971)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:cute-animals(580145837607223296)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:got-discussion(511312271721365509)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mons(481933695880527872)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:nigger-hatin(518555248562798602)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:jojos(480389485595721758)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:mha(480176944269492236)
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console channel ID was invalid, not forwarding console output
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Not using JDBC, one of host/port/database was default
+[22:16:30] [DiscordSRV - Initialization/INFO]: [DiscordSRV] No chat plugin hooks enabled
+[22:45:06] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Kendall Knight] Kendall Knight > ip
+[22:48:42] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | James Diamond] James Diamond > ip
+[22:50:17] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Kendall Knight] Kendall Knight > @oofsauce
+[23:03:55] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Camille] oofsauce > 51.37.229.227
+[23:17:14] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Gustavo Rocque] Gustavo Rocque > Thanks Babe
+[23:17:23] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Gustavo Rocque] Gustavo Rocque > Sorry for always hassling you for it
+[23:18:08] [User Authenticator #1/INFO]: UUID of player Neo is 29514d1d-f593-3f15-acdc-7ac4879b74b7
+[23:18:09] [Server thread/INFO]: Neo[/217.183.13.190:61206] logged in with entity id 468 at ([world]218.40982052069657, 69.0, 119.7064285494994)
+[23:18:09] [User Authenticator #2/INFO]: UUID of player DMC360 is 6caf3b4b-8f41-3c25-ad83-6b1f6c470b57
+[23:18:09] [Server thread/INFO]: DMC360[/37.228.233.172:63012] logged in with entity id 471 at ([world]161.29999997466803, 93.0000002, 84.29999997466803)
+[23:18:22] [Craft Scheduler Thread - 18/INFO]: [AuthMe] Neo logged in!
+[23:18:23] [Craft Scheduler Thread - 18/INFO]: [AuthMe] DMC360 logged in!
+[23:19:17] [User Authenticator #3/INFO]: UUID of player JesusIsTheBre is 7781ca7d-13bc-37b7-8422-5d2fe514ea4b
+[23:19:18] [Server thread/INFO]: JesusIsTheBre[/37.228.238.207:24067] logged in with entity id 878 at ([world]252.68491000008603, 69.49520087700593, -1722.6020509917764)
+[23:19:23] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] Chat: [Discord | Kendall Knight] Kendall Knight > ^
+[23:19:30] [Craft Scheduler Thread - 18/INFO]: [AuthMe] JesusIsTheBre logged in!
